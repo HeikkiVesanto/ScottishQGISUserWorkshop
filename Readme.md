@@ -1,12 +1,8 @@
 #Scottish QGIS User Group Workshop
 
-======
-
-##By:
+####By:
 Heikki Vesanto
 thinkWhere.com
-
-======
 
 ## Instuctions:
 Either "Download ZIP" on the right to download all the data as a zip and unzip it onto your own drive.
