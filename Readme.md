@@ -1,13 +1,14 @@
-Scottish QGIS User Group Workshop
+#Scottish QGIS User Group Workshop
 
-#############################################
+======
 
-By Heikki Vesanto
+##By:
+Heikki Vesanto
 thinkWhere.com
 
-#############################################
+======
 
-Instuctions:
+## Instuctions:
 Either "Download ZIP" on the right to download all the data as a zip and unzip it onto your own drive.
 
 Or clone the repo if you are familiar with Git.
@@ -16,9 +17,9 @@ All steps will be covered on the day. And you only need the data and QGIS.
 
 Version 2.8.3 is recommended the LTS release. But anything above 2.8 will also work.
 
-#############################################
+======
 
-Steps that will be covered during the day:
+###Steps that will be covered during the day:
 
 Create Overview Preset
 
