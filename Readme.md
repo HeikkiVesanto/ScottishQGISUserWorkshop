@@ -2,6 +2,7 @@
 
 ####By:
 Heikki Vesanto
+
 thinkWhere.com
 
 ## Instuctions:
@@ -27,7 +28,7 @@ Set presets to maps.
 
 Create copyright statement.
 
-Contains Ordnance Survey data © Crown copyright and database right 2015
+Contains Ordnance Survey data Â© Crown copyright and database right 2015
 
 Bottom map, 2 million scale.
 
